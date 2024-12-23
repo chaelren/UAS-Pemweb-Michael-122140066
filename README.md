@@ -17,7 +17,7 @@ Saya memilih InfinityFree karena:
 3. User-Friendly: Mudah digunakan oleh pemula dengan antarmuka cPanel sederhana.
 4. Dukungan PHP dan MySQL: Mendukung pengembangan aplikasi web dinamis dengan basis data.
 
-#Bagaimana Anda memastikan keamanan aplikasi web yang Anda host:
+#(5%) Bagaimana Anda memastikan keamanan aplikasi web yang Anda host:
 1. Memastikan setiap form di website perpustakaan, seperti form login atau pendaftaran, memiliki validasi input di sisi klien (JavaScript) dan server (PHP).
 2. Menggunakan fungsi sanitasi (seperti htmlspecialchars() di PHP) untuk menghindari serangan XSS (Cross-Site Scripting), terutama jika menampilkan input pengguna di halaman web.
 
