@@ -1,7 +1,10 @@
 # UAS-Pemweb-Michael-122140066
+Nama : Michael Caren Sihombing
+NIM  : 122140066
+KELAS: RA
 ---
 
-NB: Akun untuk login admin yaitu usernamae = admin dan password = admin.
+# NB: Akun untuk login admin yaitu usernamae = admin dan password = admin.
 
 ---
 # Penilaian dalam UAS Pemograman Web
@@ -33,15 +36,40 @@ Gambar berikut adalah tampilan ketika pengguna salah memasukkan username atau ap
 
 Gamabar dibawah ini merupakan tampilan jika pengguna ingin mengajukan peminjaman buku
 ![image](https://github.com/user-attachments/assets/5e1aa07b-b286-4a36-b5b8-65c0a4e007d0)
+
 ---
 
+# Bagian 2: Server-side Programming
+Gambar dibawah ini adalah untuk data peminjaman oleh user, pada bagian ini user dapat mengedit pengajuan peminjaman atau menghapus pengajuannya, disini juga akan terlihat statusnya jika admin telah memverifikasinya
+![image](https://github.com/user-attachments/assets/c2b877ae-696b-474d-bf26-53192aaaa73d)
 
+Pada bagian gambar dibawah ini merupakan tampilan dari admin, dimana pada halaman ini admin dapat menyetujui ataupun menolak pengajuan peminjaman buku oleh pengguna, disini admin juga dapat memberikan pesan kepada pengguna.
+![image](https://github.com/user-attachments/assets/1aa20a96-50bd-4afb-a7d1-0c08b61d458a)
 
+# Bagian 3: Database Management
+Gambar berikut merupakan, database yang saya gunakan, yang dimana di dalamnya terdapat dua tabel yaitu pendaftaran dan pengajuan
+![image](https://github.com/user-attachments/assets/2e2c32c4-f76f-4fb5-ac5b-2d3d6484392c)
+![image](https://github.com/user-attachments/assets/446190ba-d2da-4537-9512-d72e65596e85)
+![image](https://github.com/user-attachments/assets/63737bf8-808b-47f6-a296-d7a1dd484a97)
 
+Gambar berikut untuk memanipulasi data
+![image](https://github.com/user-attachments/assets/bb190489-3c02-4d84-8ea3-f4e681804427)
 
+---
 
+# Bagian 4: State Management
+Staete Management dengan session_start()
+![image](https://github.com/user-attachments/assets/1ca8edb2-5097-4d9a-92a5-993f776523bf)
 
+Pengelolaan state dengan Cookie
+![image](https://github.com/user-attachments/assets/c2bf29a5-96da-4262-841c-419e82b6edb2)
+![image](https://github.com/user-attachments/assets/1fa5cd8c-bea4-4d05-b6ca-272f040cb20f)
 
+---
+
+# Bagian Bonus: Hosting Aplikasi Web
+Pada bagain ini, saya melakukan hosting dengan website penyedia hosting gratis yaitu InfinityFree
+![image](https://github.com/user-attachments/assets/30d12e38-ea2f-4660-a045-e4eaf9482992)
 
 #(5%) Langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda:
 1. Persiapan File Aplikasi Web: Pastikan semua file aplikasi web, seperti file PHP, CSS, JavaScript, dan lainnya, telah siap dan diuji secara lokal. Kompres file menjadi satu folder jika perlu.
