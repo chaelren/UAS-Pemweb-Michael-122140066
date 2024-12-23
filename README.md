@@ -1,7 +1,7 @@
 # UAS-Pemweb-Michael-122140066
-Nama : Michael Caren Sihombing
-NIM  : 122140066
-KELAS: RA
+- Nama : Michael Caren Sihombing
+- NIM  : 122140066
+- KELAS: RA
 ---
 
 # NB: Akun untuk login admin yaitu usernamae = admin dan password = admin.
