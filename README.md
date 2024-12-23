@@ -3,6 +3,10 @@
 
 NB: Akun untuk login admin yaitu usernamae = admin dan password = admin.
 
+---
+
+
+
 #(5%) Langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda:
 1. Persiapan File Aplikasi Web: Pastikan semua file aplikasi web, seperti file PHP, CSS, JavaScript, dan lainnya, telah siap dan diuji secara lokal. Kompres file menjadi satu folder jika perlu.
 2. Mendaftar ke InfinityFree: Buat akun di www.infinityfree.com dengan menyediakan email yang valid.
