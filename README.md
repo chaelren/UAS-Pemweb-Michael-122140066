@@ -13,7 +13,32 @@ NB: Akun untuk login admin yaitu usernamae = admin dan password = admin.
 ---
 
 # Client-side Programming
+Gambar di bawah ini adalah tampilan register untuk pengguna yang belum memiliki akun:
 ![image](https://github.com/user-attachments/assets/3c5cb6a2-0302-4f71-b199-f03cd0059158)
+
+Gambar dibawah ini adalah tampilan ketika pengguna berhasil mendaftar
+![image](https://github.com/user-attachments/assets/f60c001e-3325-473d-8f4a-d25bf3954f90)
+
+Gamabar Dibawah adalah contoh tampilan peringatan jika pengguna mengisi kolom tidak sesuai dengan ketentuan
+![image](https://github.com/user-attachments/assets/c8ca8154-5fce-4c7e-9c69-85bd15ad5e48)
+
+Gambar berikut adalah tampilan untuk login pengguna
+![image](https://github.com/user-attachments/assets/3223ec8b-4159-4a4a-938b-3f55fae19e5d)
+
+Gambar Berikut adalah tampilan untuk login admin
+![image](https://github.com/user-attachments/assets/907f86b6-3e4f-46b1-a58a-ff81f678ce12)
+
+Gambar berikut adalah tampilan ketika pengguna salah memasukkan username atau apassword
+![image](https://github.com/user-attachments/assets/bf242949-dbea-40d5-84a9-254a7f67011b)
+
+Gamabar dibawah ini merupakan tampilan jika pengguna ingin mengajukan peminjaman buku
+![image](https://github.com/user-attachments/assets/5e1aa07b-b286-4a36-b5b8-65c0a4e007d0)
+---
+
+
+
+
+
 
 
 
