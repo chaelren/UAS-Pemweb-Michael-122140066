@@ -4,6 +4,17 @@
 NB: Akun untuk login admin yaitu usernamae = admin dan password = admin.
 
 ---
+# Penilaian dalam UAS Pemograman Web
+- Client-side Programming (Bobot: 30%)
+- Server-side Programming (Bobot: 30%)
+- Database Management (Bobot: 20%)
+- State Management (Bobot: 20%)
+- Hosting Aplikasi Web (Bobot: 20%)
+---
+
+# Client-side Programming
+![image](https://github.com/user-attachments/assets/3c5cb6a2-0302-4f71-b199-f03cd0059158)
+
 
 
 
